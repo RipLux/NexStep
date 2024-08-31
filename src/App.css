@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.navbar-brand {
+  font-size: 1.5em;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+@media (max-width: 768px) {
+  .navbar-nav {
+    text-align: center;
+  }
+}
